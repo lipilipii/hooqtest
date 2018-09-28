@@ -19,6 +19,8 @@ To run the login test cases:
 
     python test.py login
 
+Login test plan can be seen here : https://docs.google.com/spreadsheets/d/10osuHJcRnciKd0uZHZEpz5BZzm84WSxja2vzzJ_oLyU/edit?usp=sharing
+
 
 Hope things work well
 
