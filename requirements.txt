@@ -1,0 +1,13 @@
+certifi==2018.8.24
+chardet==3.0.4
+Faker==0.9.1
+idna==2.7
+ipaddress==1.0.22
+powerline-status==2.6
+python-dateutil==2.7.3
+requests==2.19.1
+selenium==3.14.1
+six==1.11.0
+text-unidecode==1.2
+urllib3==1.23
+virtualenv==16.0.0
